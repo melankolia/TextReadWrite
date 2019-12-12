@@ -1,0 +1,8 @@
+True
+False
+True
+False
+Gak
+Tobe
+Fly
+Haiky
